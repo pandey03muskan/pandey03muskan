@@ -31,7 +31,7 @@
 ### 👨‍💻 Top Skills:
 
 <p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" />
 </p>
 
 
