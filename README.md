@@ -6,12 +6,12 @@
 ---
 
 
-### 📈 Coding Profile:
+<!--### 📈 Coding Profile:
 <p align="center">
   <a target="_blank" href="https://leetcode.com/Aniaki9813/" rel="noopener noreferrer">
     <img src="https://leetcard.jacoblin.cool/Aniaki9813?theme=dark&font=Poppins%20Infant&ext=heatmap">
   </a>
-</p>
+</p>-->
 <p align="center">
     <img src="https://yashchaudhari008.github.io/Codechef_Cards/">
   </a>
