@@ -13,7 +13,6 @@
   </a>
 </p>
 <p align="center">
-<!--   <a target="_blank" href="https://leetcode.com/Aniaki9813/" rel="noopener noreferrer"> -->
     <img src="https://yashchaudhari008.github.io/Codechef_Cards/">
   </a>
 </p>
