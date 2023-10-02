@@ -1,5 +1,17 @@
-<h1 align="center">Hi there👋, I'm Muskan Pandey</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there, I'm Muskan Pandey👋
+
+- I'm **a passionate frontend developer**.
+- I’m currently learning **JavaScript**
+- Check out my resume for more information about me [https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link](https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link)
+---
+
+
+
+
+
+
+<!--<h1 align="center">Hi there👋, I'm Muskan Pandey</h1>
+<h3 align="center">A passionate frontend developer</h3>-->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandey03muskan&label=Profile%20views&color=0e75b6&style=flat" alt="pandey03muskan" /> </p>
 
