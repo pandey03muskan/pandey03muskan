@@ -5,7 +5,7 @@
 - Check out my resume for information about me [https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/
 - view?usp=drive_link](https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link)
   <p align="center">
-    <img src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif" height="90px">
+    <img src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif" height="200px">
 </p
 ---
 
