@@ -45,7 +45,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandey03muskan" alt="pandey03muskan" /></a> </p>-->
 
--  I’m currently learning **JavaScript**
+<!--- -  I’m currently learning **JavaScript**
 -  How to reach me **pandey03muskan@gmail.com**
 - Check out my resume for more information about me [https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link](https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link)
 
@@ -66,5 +66,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>-->
 
