@@ -19,9 +19,9 @@
 
 ### 📊 Profile Stats:
 
-<p align="center">
+<!--<p align="center">
   <img src = "https://readme-stats-hazel-two.vercel.app/api?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" />
-</p>
+</p>-->
 
 ---
 
