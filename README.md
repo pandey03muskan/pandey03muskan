@@ -20,7 +20,7 @@
 ### 📊 Profile Stats:
 
 <p align="center">
-  <img src = "https://readme-stats-hazel-two.vercel.app/api?username=UtkarshPrajapati&bg_color=30,e96000,904e95&title_color=fff&text_color=fff" alt="UtkarshPrajapati" />
+  <img src = "https://readme-stats-hazel-two.vercel.app/api?username=pandey03muskan&bg_color=30,e96000,904e95&title_color=fff&text_color=fff" alt="pandey03muskan" />
 </p>
 
 ---
