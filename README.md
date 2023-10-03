@@ -32,23 +32,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" />
 &nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
-<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" /></p>-->
-<!--<p align="center">
- 
- 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
-</p>-->
-
-
 ---
 ### 👨‍💻 Top Skills:
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&show_icons=true&locale=en&layout=compact" alt="pandey03muskan" /></p>
+<!--<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" />-->
 </p>
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&show_icons=true&locale=en&layout=compact" alt="pandey03muskan" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" /></p>
 
