@@ -28,8 +28,8 @@
 ---
 ### 📊 Profile Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&bg_color=20,215032,05ff80&title_color=fff&text_color=fff" alt="pandey03muskan" /></p>-->
 <!--<p align="center">
  
