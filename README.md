@@ -16,7 +16,7 @@
 </p>-->
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,10 +35,6 @@
 ### mostly Used:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey03muskan&show_icons=true&locale=en&layout=compact" alt="pandey03muskan" /></p>
-
-
-
----
 
 <!--<h1 align="center">Hi there👋, I'm Muskan Pandey</h1>
 <h3 align="center">A passionate frontend developer</h3>-->
