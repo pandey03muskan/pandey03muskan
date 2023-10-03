@@ -29,7 +29,7 @@
 ### 📊 Profile Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" />
-&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" /></p>
 
 ---
 ### mostly Used:
