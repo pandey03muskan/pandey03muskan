@@ -28,7 +28,7 @@
 
 ### 📊 Profile Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" width="350px"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey03muskan&show_icons=true&locale=en" alt="pandey03muskan" width="380px"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey03muskan&" alt="pandey03muskan" width="400px"/></p>
 
 ---
