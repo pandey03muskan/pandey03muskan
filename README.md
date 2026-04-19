@@ -2,7 +2,7 @@
 
 - I'm **a passionate frontend developer**.
 - I’m currently learning **JavaScript**
-- Check out my resume for information about me [https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link](https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link)
+- Check out my resume for information about me [https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link]([https://drive.google.com/file/d/16dcxHpN4VBTHUF-U5mRButhkxv-dih2h/view?usp=drive_link](https://drive.google.com/file/d/1hhTpk7y-JV0ukpKKhb1nGqw_VEDs6mub/view?usp=sharing))
 
 <!--### 📈 Coding Profile:
 <p align="center">
